@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi, I'm Robert
+
+🔭 I’m currently working on web development projects using PHP (Laravel, Slim 4), Node.js (Express), and React.
+🌱 I’m currently learning advanced Docker configurations, performance optimization in backend systems.
+👯 I’m looking to collaborate on open-source projects related to APIs, web applications, or DevOps tools.
+😄 Pronouns: He/Him or your preferred pronouns.
 
 <!--
 **roberto-torfe/roberto-torfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
